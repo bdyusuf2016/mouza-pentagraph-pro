@@ -1,0 +1,8 @@
+{
+  "name": "মৌজা পেন্টাগ্রাফ প্রো — CS·SA·RS·BS সুপারইম্পোজিশন ও এলাইনমেন্ট",
+  "description": "বাংলাদেশের ৪ ঐতিহাসিক জরিপ (CS, SA, RS, BS) মৌজা নকশা সুপারইম্পোজিশন, এলাইনমেন্ট (Affine, Similarity, Rubber Sheet/TPS), দাগ পরিমাপ ও ডিজিটাল তুলনা অ্যাপ্লিকেশন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
